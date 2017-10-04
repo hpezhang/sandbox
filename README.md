@@ -1,2 +1,2 @@
 # sandbox
-sand in a box
+box with sand
